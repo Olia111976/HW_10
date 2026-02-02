@@ -1,0 +1,59 @@
+    1  mkdir Lesson
+    2  ls 
+    3  cd Desktop
+    4  cd~
+    5  cd ~
+    6  mkdir Lesson1
+    7  cd ..
+    8  cd/ACER/Lesson1
+    9  cd /ACER/Lesson1
+   10  cd /ACER/Lesson
+   11  cd /ACER/Lesson1
+   12  nano .gitignore.txt
+   13  cd Git
+   14  git config --global user.name "Olia Deineka"
+   15  git config --global user.email oliadeyneka@gmail.com
+   16  git clone https://github.com/Olia111976/HW_10.git
+   17  cd HW_10
+   18  touch text_ignore.txt
+   19  nano .gitignore
+   20  nano .gitignore
+   21  nano .gitignore
+   22  nano .gitignore
+   23  git status
+   24  cd HW_10
+   25  cd Lesson1
+   26  git status
+   27  cd Git
+   28  cd text
+   29  cd text_ignore.txt
+   30  cd ..
+   31  text_ignore.txt
+   32  cd .gitignore
+   33  cd 
+   34  cd Git
+   35  cd HW_10
+   36  git status
+   37  git add text_ignore.txt
+   38  git status
+   39  git commit-m "A New file was created"
+   40  git commit -m "A new file was created" 
+   41  touch main_test.txt
+   42  git commit -m "New file created"
+   43  git add
+   44  touch main_test.txt
+   45  git add main_test.txt
+   46  git status
+   47  git branch
+   48  git checkout -b develop
+   49  touch develop_test.txt
+   50  git add develop_test.txt
+   51  git commit -m "A new file was created"
+   52  nano develop_test.txt
+   53  git status
+   54  git add develop_test.txt
+   55  git commit -m "New modified"
+   56  git checkout main
+   57  git merge develop
+   58  git log
+   59  history > command_list.csv
